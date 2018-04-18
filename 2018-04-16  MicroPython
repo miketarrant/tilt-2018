@@ -1,0 +1,3 @@
+Had to lower the baud rate to get one of the ESP8266-32's to flash with MicroPython.
+ampy issues -- can't send a file. Not sure where to start troubleshooting.
+MicroPython WebREPL has been the best approach for interaction and file upload
